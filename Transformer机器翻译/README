@@ -7,5 +7,5 @@
 
 2. 数据及平台：
  (1）数据集：/data，6834个中英平行语对
-		        /cn.txt和/en.txt的每一行一一对应 
+            /cn.txt和/en.txt的每一行一一对应 
  (2）模型实现可用平台Tensorflow 或 Pytorch
